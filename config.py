@@ -1,0 +1,8 @@
+DATABASE_NAME = "rcp.db"
+BROKER = "DESKTOP-36N555C"
+PORT = 8883
+SENDER_USERNAME = 'client'
+SENDER_PASSWORD = 'password'
+RECEIVER_USERNAME = 'server'
+RECEIVER_PASSWORD = 'haslo'
+CERT = 'ca.crt'
